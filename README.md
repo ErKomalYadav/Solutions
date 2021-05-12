@@ -19,6 +19,10 @@ The logging module provides us with a default logger that allows you to get star
 
 logging.basicConfig(filename='komal.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s').
 
+### Problem No: 04:
+
+
+
 
 
 
