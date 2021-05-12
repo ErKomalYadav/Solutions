@@ -1,5 +1,24 @@
 # Solutions
 
+#### Problem No:01
+
+Logics:
+(i)In dictionary, the given files and owners are kept as key value pairs.As,
+files = {
+        'Input.txt': 'Randy',
+        'Code.py': 'Stan',
+        'Output.txt': 'Randy'
+    } 
+    
+(ii) After that,Function  group_by_owners(files) has been implemented to group the files.   
+(iii) And then,another Dictionary is created to hold the result as: result = {}
+(iv) The values are inserted into the resulting dictionary by interchanging the key, values.
+and then Eventually,
+
+ The other file names are appended if the owner is same.
+ 
+ and then the result is printed.
+
 ###### Problem No:02: Write a function that checks if a given word is a palindrome. Character case should be ignored.
 
 Answer: For the above question, I have prepared the below mentioned logic:
