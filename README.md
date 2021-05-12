@@ -21,6 +21,8 @@ logging.basicConfig(filename='komal.log', filemode='w', format='%(name)s - %(lev
 
 ### Problem No: 04:
 
+As we know,
+cd .. will move the user up one directory. So, if they are /a/b/c/d, cd .. moves them to /a/b/c, while cd ../x moves them to /a/b/c/x. The user can use this indirection to access subdirectories too. So,the same logic is implemented with the help of different required functions in c# which finally returns our required output.
 
 
 
